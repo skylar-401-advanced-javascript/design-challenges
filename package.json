@@ -1,0 +1,24 @@
+{
+  "name": "design-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node-sass styles/styles.scss styles/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skylar-401-advanced-javascript/design-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skylar-401-advanced-javascript/design-challenges/issues"
+  },
+  "homepage": "https://github.com/skylar-401-advanced-javascript/design-challenges#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
