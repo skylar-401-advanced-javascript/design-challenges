@@ -10,7 +10,8 @@ header {
 nav {
   font-size: 30px;
   width: 100%;
-  text-align: center; }
+  text-align: center;
+  background: orange; }
   nav a {
     border: 1px solid green;
     padding-left: 13.5%;
@@ -23,4 +24,17 @@ nav {
 
 footer {
   font-size: 25px;
-  background: blue; }
+  background: green; }
+
+form {
+  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background: yellow; }
+
+input {
+  width: 49.6%; }
+
+textarea {
+  width: 100%;
+  height: 20px; }
